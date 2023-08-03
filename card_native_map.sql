@@ -1,15 +1,8 @@
 /*
- Navicat Premium Data Transfer
-
- Source Server         : 10.196.17.59
+ Source Server         : 1.1.1.1
  Source Server Type    : MySQL
  Source Server Version : 50730 (5.7.30-log)
- Source Host           : 10.196.17.59:3306
- Source Schema         : bi_maintain
-
- Target Server Type    : MySQL
- Target Server Version : 50730 (5.7.30-log)
- File Encoding         : 65001
+ Source Host           : 1.1.1.1:3306
 
  Date: 03/08/2023 15:16:03
 */
